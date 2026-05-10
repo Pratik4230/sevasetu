@@ -1,0 +1,4 @@
+# Canonical contributor for this repo (used by `git shortlog -nse` with --mailmap).
+pratik <pratikjadhav1438@gmail.com> Pratik4230 <pratikjadhav1438@gmail.com>
+# If any commit or trailer used Cursor’s identity as author, fold it into the same person:
+pratik <pratikjadhav1438@gmail.com> Cursor <cursoragent@cursor.com>
